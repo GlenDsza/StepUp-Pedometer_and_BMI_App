@@ -5,9 +5,9 @@
 StepUp is an Android mobile applictaion which acts as a Step counter (pedometer) and an application to keep track of user's BMI.
 
 ## Problem Definition✨
- - In this fast-paced world, most people have adopted a sedentary lifestyle, which is a cause of obesity, diabetes, and other lifestyle-related issues.
--  Many people are unaware of no. of steps they take in a day even though it being a simple yet effective measure of their physical activity level.
-- Carrying an external pedometer device is not a feasible approach to count no. of steps.
+- In this fast-paced world, most people have adopted a sedentary lifestyle, which is a cause of obesity, diabetes, and other lifestyle-related issues.
+- Many people are unaware of no. of steps they take in a day even though it being a simple yet effective measure of their physical activity level.
+- In real world, carrying an external pedometer device is not a feasible approach to count steps.
 
 ## Proposed Application (Features)
 
