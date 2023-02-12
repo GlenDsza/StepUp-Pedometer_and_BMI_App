@@ -1,6 +1,6 @@
-<img align="left" style="margin-top:18px" width="50" height="50" src="images/StepUp.png">
+<img align="left" style="margin-top:25px" width="50" height="50" src="images/StepUp.png">
 
-# StepUp 
+# StepUp : Pedometer & BMI Application
 
 StepUp is an Android mobile applictaion which acts as a Step counter (pedometer) and an application to keep track of user's BMI.
 
